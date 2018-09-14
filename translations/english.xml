@@ -11,7 +11,7 @@
 	<translation id="faq2a">Q: How is this secure? Its on a web browser!</translation>
 	<translation id="faq2b">A: MyZelcash can replicated the core features of the Zelcash daemon in JavaScript! So the process of creating and signing the transactions are all done within the browser. No sensitive information is sent through the network.</translation>
 	<translation id="faq3a">Q: Can I have the source code?</translation>
-	<translation id="faq3b">A:https://github.com/TheTrunk/Zelcash-Web-Wallet</translation>
+	<translation id="faq3b">A:https://github.com/TheTrunk/myanon</translation>
 	<translation id="faq3b">Here you go</translation>
 	<translation id="faq4a">Q: Why are you doing this?</translation>
 	<translation id="faq4b">A: MyZelcash was inspired by</translation>
