@@ -34715,7 +34715,7 @@ var ZNavbar = function (_React$Component) {
             { className: 'container' },
             _react2.default.createElement(
               _reactstrap.NavbarBrand,
-              { className: 'style', href: '/' },
+              { className: 'style', href: '/myanon/' },
               _react2.default.createElement('img', { src: './zelcashlogo.png', height: 50 })
             ),
             _react2.default.createElement(
@@ -34729,7 +34729,7 @@ var ZNavbar = function (_React$Component) {
                   null,
                   _react2.default.createElement(
                     _reactstrap.NavLink,
-                    { className: 'style2 faq', href: '/faq.html' },
+                    { className: 'style2 faq', href: '/myanon/faq.html' },
                     this.state.faq
                   )
                 ),
@@ -34738,7 +34738,7 @@ var ZNavbar = function (_React$Component) {
                   null,
                   _react2.default.createElement(
                     _reactstrap.NavLink,
-                    { className: 'style2 gt', href: '/guide.html' },
+                    { className: 'style2 gt', href: '/myanon/guide.html' },
                     this.state.guide
                   )
                 )
