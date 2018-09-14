@@ -31630,8 +31630,8 @@ var ZGuide = function (_React$Component) {
                 ' ',
                 _react2.default.createElement(
                   'a',
-                  { href: 'https://my.zel.cash' },
-                  'https://my.zel.cash'
+                  { href: 'https://thetrunk.github.io/myanon' },
+                  'https://thetrunk.github.io/myanon'
                 )
               ),
               _react2.default.createElement(
@@ -31722,8 +31722,8 @@ var ZGuide = function (_React$Component) {
                 ' ',
                 _react2.default.createElement(
                   'a',
-                  { href: 'https://my.zel.cash' },
-                  'https://my.zel.cash'
+                  { href: 'https://thetrunk.github.io/myanon' },
+                  'https://thetrunk.github.io/myanon'
                 ),
                 ' ',
                 _react2.default.createElement(

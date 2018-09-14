@@ -1,3 +1,2 @@
-myAnon is based on myZelcash https://my.zel.cash
-
+myAnon https://thetrunk.github.io/myanon/
 

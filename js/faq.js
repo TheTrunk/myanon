@@ -31652,34 +31652,18 @@ var ZFaq = function (_React$Component) {
               ' ',
               _react2.default.createElement(
                 'a',
-                { href: 'https://myzenwallet.io/' },
+                { href: 'https://my.zel.cash/' },
                 _react2.default.createElement(
                   'span',
                   { className: 'faq4c' },
-                  'MyZenWallet\'s'
-                )
-              ),
-              ' ',
-              _react2.default.createElement(
-                'span',
-                { className: 'faq4d' },
-                'which was inspired by'
-              ),
-              ' ',
-              _react2.default.createElement(
-                'a',
-                { href: 'https://myetherwallet.com' },
-                _react2.default.createElement(
-                  'span',
-                  { className: 'faq4e' },
-                  'MyEtherWallet\'s.'
+                  'MyZelCash.'
                 )
               ),
               ' ',
               _react2.default.createElement(
                 'span',
                 { className: 'faq4f' },
-                'We also want to provide the people the ability to interact with the Zelcash blockchain easily, without having to run a full node.'
+                'Consider a donation: AnSUBGEoZ7thbyrihLPVu32Q3JAuwavqECM'
               )
             )
           )
