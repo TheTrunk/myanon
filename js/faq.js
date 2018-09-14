@@ -31640,30 +31640,24 @@ var ZFaq = function (_React$Component) {
                 _react2.default.createElement(
                   'span',
                   { className: 'faq4a' },
-                  'Q: Why are you doing this?'
+                  'Q: Where can I donate?'
                 )
               ),
               _react2.default.createElement('br', null),
               _react2.default.createElement(
                 'span',
                 { className: 'faq4b' },
-                'A: MyAnon Wallet was inspired by'
+                'A: Donations are highly appreciated'
               ),
               ' ',
               _react2.default.createElement(
                 'a',
-                { href: 'https://my.zel.cash/' },
+                { href: 'https://explorer.anon.zeltrez.io/address/AnSUBGEoZ7thbyrihLPVu32Q3JAuwavqECM' },
                 _react2.default.createElement(
                   'span',
                   { className: 'faq4c' },
-                  'MyZelCash.'
+                  'AnSUBGEoZ7thbyrihLPVu32Q3JAuwavqECM.'
                 )
-              ),
-              ' ',
-              _react2.default.createElement(
-                'span',
-                { className: 'faq4f' },
-                'Consider a donation: AnSUBGEoZ7thbyrihLPVu32Q3JAuwavqECM'
               )
             )
           )
